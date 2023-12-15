@@ -1,5 +1,9 @@
 # CS 1440 Assignment 4: Refactoring & Design Patterns
 
+This assignment came in two parts: part one involved taking a poorly-written program full of "code smells", and refactoring it to make it easier to understand and work on. Part two involved implementing object-oriented programming to add support for multiple types of fractals.
+
+Below is the original README.md:
+
 ## 4.0: Refactoring
 * [Instructions](./instructions/README-4.0.md)
 * [Hints](./instructions/Hints-4.0.md)
